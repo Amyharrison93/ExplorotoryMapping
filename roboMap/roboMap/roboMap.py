@@ -49,6 +49,20 @@ def MapGenerator(intHeight, intWidth, flDensity, boolSmooth = True):
     return arryMap
 
 #-----------------------------------------------------------------------
+#		PID controller v0.1
+# 		python implimentation of PID controller
+#       in:
+#           arryKpid: k values for P I and D
+#
+#		started: 18/02/2020
+#		Comp tested: 
+#		Author: AH
+#-----------------------------------------------------------------------
+def PyID(arryKpid, arryPID):
+
+    
+    return arryPID
+#-----------------------------------------------------------------------
 #		SLAM mapping in Python v0.1
 # 		project Main filder
 #		started: 06/02/2020

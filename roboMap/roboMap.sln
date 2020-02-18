@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "roboMap", "roboMap\roboMap.pyproj", "{5B940DBC-F6AE-4C72-9CBE-4FDCBA6A2094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B940DBC-F6AE-4C72-9CBE-4FDCBA6A2094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B940DBC-F6AE-4C72-9CBE-4FDCBA6A2094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFA6CF8-636D-441B-B6BE-96D46B870A26}
+	EndGlobalSection
+EndGlobal
